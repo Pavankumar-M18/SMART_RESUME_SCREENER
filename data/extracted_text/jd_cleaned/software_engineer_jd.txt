@@ -1,0 +1,1 @@
+We are looking for a Software Engineer with experience in Python Django and cloud technologies Responsibilities include API development cloud deployment and database management Skills required  Python  Django  AWS  SQL  Docker
